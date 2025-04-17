@@ -1,2 +1,2 @@
 # firstprojects
-My oldest software :3 Explore how I have started and evolved overtime.
+My oldest software! Explore how I have started and evolved overtime.
