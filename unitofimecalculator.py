@@ -2,7 +2,7 @@ while True:
     try:
         age = int(input("Units of time alive calculator! Enter your age in years, great alpha: ")) 
         if age == 0:
-            print("lol ok kys faggot like actually")
+            print("lol ok")
             break
     except ValueError:
         print("nah.")
